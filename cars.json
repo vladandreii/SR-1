@@ -1,0 +1,408 @@
+[
+   {
+       "Name": "Audi",
+       "Model": "A3",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "BMW",
+       "Model": "3 Series",
+       "Year": 2023,
+       "Displacement": 1998,
+       "Horsepower": 258
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "Golf",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Mercedes-Benz",
+       "Model": "C-Class",
+       "Year": 2023,
+       "Displacement": 1991,
+       "Horsepower": 201
+   },
+   {
+       "Name": "Peugeot",
+       "Model": "308",
+       "Year": 2023,
+       "Displacement": 1199,
+       "Horsepower": 130
+   },
+   {
+       "Name": "Renault",
+       "Model": "Megane",
+       "Year": 2023,
+       "Displacement": 1598,
+       "Horsepower": 140
+   },
+   {
+       "Name": "Ford",
+       "Model": "Focus",
+       "Year": 2023,
+       "Displacement": 1499,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Skoda",
+       "Model": "Octavia",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "Passat",
+       "Year": 2023,
+       "Displacement": 1968,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Fiat",
+       "Model": "Punto",
+       "Year": 2023,
+       "Displacement": 1242,
+       "Horsepower": 70
+   },
+   {
+       "Name": "Seat",
+       "Model": "Leon",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Volvo",
+       "Model": "V60",
+       "Year": 2023,
+       "Displacement": 1969,
+       "Horsepower": 250
+   },
+   {
+       "Name": "Peugeot",
+       "Model": "508",
+       "Year": 2023,
+       "Displacement": 1598,
+       "Horsepower": 180
+   },
+   {
+       "Name": "BMW",
+       "Model": "X3",
+       "Year": 2023,
+       "Displacement": 1995,
+       "Horsepower": 248
+   },
+   {
+       "Name": "Audi",
+       "Model": "Q5",
+       "Year": 2023,
+       "Displacement": 1968,
+       "Horsepower": 265
+   },
+   {
+       "Name": "Mercedes-Benz",
+       "Model": "GLC",
+       "Year": 2023,
+       "Displacement": 1991,
+       "Horsepower": 197
+   },
+   {
+       "Name": "Land Rover",
+       "Model": "Evoque",
+       "Year": 2023,
+       "Displacement": 1997,
+       "Horsepower": 246
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "Tiguan",
+       "Year": 2023,
+       "Displacement": 1984,
+       "Horsepower": 220
+   },
+   {
+       "Name": "Opel",
+       "Model": "Astra",
+       "Year": 2023,
+       "Displacement": 1199,
+       "Horsepower": 130
+   },
+   {
+       "Name": "Citroen",
+       "Model": "C4",
+       "Year": 2023,
+       "Displacement": 1199,
+       "Horsepower": 130
+   },
+   {
+       "Name": "Renault",
+       "Model": "Captur",
+       "Year": 2023,
+       "Displacement": 999,
+       "Horsepower": 100
+   },
+   {
+       "Name": "Fiat",
+       "Model": "500",
+       "Year": 2023,
+       "Displacement": 1242,
+       "Horsepower": 70
+   },
+   {
+       "Name": "Nissan",
+       "Model": "Juke",
+       "Year": 2023,
+       "Displacement": 999,
+       "Horsepower": 114
+   },
+   {
+       "Name": "Hyundai",
+       "Model": "i30",
+       "Year": 2023,
+       "Displacement": 1591,
+       "Horsepower": 204
+   },
+   {
+       "Name": "Kia",
+       "Model": "Ceed",
+       "Year": 2023,
+       "Displacement": 1353,
+       "Horsepower": 160
+   },
+   {
+       "Name": "Skoda",
+       "Model": "Fabia",
+       "Year": 2023,
+       "Displacement": 999,
+       "Horsepower": 80
+   },
+   {
+       "Name": "Renault",
+       "Model": "Clio",
+       "Year": 2023,
+       "Displacement": 999,
+       "Horsepower": 100
+   },
+   {
+       "Name": "Seat",
+       "Model": "Ibiza",
+       "Year": 2023,
+       "Displacement": 999,
+       "Horsepower": 80
+   },
+   {
+       "Name": "Peugeot",
+       "Model": "2008",
+       "Year": 2023,
+       "Displacement": 1199,
+       "Horsepower": 130
+   },
+   {
+       "Name": "Citroen",
+       "Model": "C3",
+       "Year": 2023,
+       "Displacement": 1199,
+       "Horsepower": 110
+   },
+   {
+       "Name": "Audi",
+       "Model": "Q3",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "BMW",
+       "Model": "X1",
+       "Year": 2023,
+       "Displacement": 1499,
+       "Horsepower": 140
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "T-Roc",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Ford",
+       "Model": "Kuga",
+       "Year": 2023,
+       "Displacement": 1499,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Toyota",
+       "Model": "Yaris",
+       "Year": 2023,
+       "Displacement": 1496,
+       "Horsepower": 125
+   },
+   {
+       "Name": "Honda",
+       "Model": "HR-V",
+       "Year": 2023,
+       "Displacement": 1498,
+       "Horsepower": 129
+   },
+   {
+       "Name": "Mazda",
+       "Model": "CX-30",
+       "Year": 2023,
+       "Displacement": 1998,
+       "Horsepower": 186
+   },
+   {
+       "Name": "Nissan",
+       "Model": "Qashqai",
+       "Year": 2023,
+       "Displacement": 1598,
+       "Horsepower": 160
+   },
+   {
+       "Name": "Hyundai",
+       "Model": "Tucson",
+       "Year": 2023,
+       "Displacement": 1998,
+       "Horsepower": 150
+   },
+   {
+       "Name": "Kia",
+       "Model": "Sportage",
+       "Year": 2023,
+       "Displacement": 1999,
+       "Horsepower": 173
+   },
+   {
+       "Name": "Peugeot",
+       "Model": "e-208",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 136
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "ID.4",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 204
+   },
+   {
+       "Name": "Audi",
+       "Model": "e-tron",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 265
+   },
+   {
+       "Name": "BMW",
+       "Model": "iX3",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 286
+   },
+   {
+       "Name": "Mercedes-Benz",
+       "Model": "EQB",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 228
+   },
+   {
+       "Name": "Ford",
+       "Model": "Mustang Mach-E",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 480
+   },
+   {
+       "Name": "Hyundai",
+       "Model": "Ioniq 5",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 320
+   },
+   {
+       "Name": "Kia",
+       "Model": "EV6",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 576
+   },
+   {
+       "Name": "Renault",
+       "Model": "Megane E-Tech",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 220
+   },
+   {
+       "Name": "Peugeot",
+       "Model": "e-2008",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 136
+   },
+   {
+       "Name": "Volkswagen",
+       "Model": "ID.3",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 204
+   },
+   {
+       "Name": "Mini",
+       "Model": "Electric",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 184
+   },
+   {
+       "Name": "Fiat",
+       "Model": "500e",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 136
+   },
+   {
+       "Name": "Jaguar",
+       "Model": "I-PACE",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 394
+   },
+   {
+       "Name": "Tesla",
+       "Model": "Model 3",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 283
+   },
+   {
+       "Name": "Tesla",
+       "Model": "Model Y",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 468
+   },
+   {
+       "Name": "Volvo",
+       "Model": "C40 Recharge",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 402
+   },
+   {
+       "Name": "Mercedes-Benz",
+       "Model": "EQS",
+       "Year": 2023,
+       "Displacement": 0,
+       "Horsepower": 329
+   }
+]
